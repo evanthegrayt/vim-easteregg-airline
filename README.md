@@ -33,8 +33,10 @@ contents of the `autoload` directory to `~/.vim/autoload`.
 ![](https://user-images.githubusercontent.com/12698076/250939371-905dc4dc-3119-4263-9f9f-78647576cf20.png)
 ![](https://user-images.githubusercontent.com/12698076/250939383-1cd3832a-72a3-4b79-a5f0-f947fead747e.png)
 
-## Self Promotion
-I do these projects for fun, and I enjoy knowing that they're helpful to people.
-Consider starring [the
-repository](https://github.com/evanthegrayt/vim-easteregg-airline) if you like it! If
-you love it, follow me [on github](https://github.com/evanthegrayt)!
+## Support this project
+I love knowing when people find my work useful. Any kind of support is very much
+appreciated!
+
+- ⭐️ Like the project? Star [the repository](https://github.com/evanthegrayt/vim-easteregg-airline)!
+- ❤️ Love the project? Follow me [on GitHub](https://github.com/evanthegrayt)!
+- 💸 *Really* love it? Consider [buying me a tea](https://paypal.me/evanrgray)!
