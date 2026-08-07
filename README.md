@@ -1,6 +1,7 @@
 # vim-easteregg-airline
-Airline colorscheme that is the companion to
-[vim-easteregg](https://github.com/evanthegrayt/vim-easteregg).
+A theme for [vim-airline](https://github.com/vim-airline/vim-airline) that is
+the companion to the
+[vim-easteregg](https://github.com/evanthegrayt/vim-easteregg) colorscheme.
 
 ## Installation
 ### Version 8
@@ -32,6 +33,11 @@ contents of the `autoload` directory to `~/.vim/autoload`.
 ![](https://user-images.githubusercontent.com/12698076/250939365-e42b2c86-c40a-476c-a6be-87921783a289.png)
 ![](https://user-images.githubusercontent.com/12698076/250939371-905dc4dc-3119-4263-9f9f-78647576cf20.png)
 ![](https://user-images.githubusercontent.com/12698076/250939383-1cd3832a-72a3-4b79-a5f0-f947fead747e.png)
+
+## Dependencies
+This theme is for [vim-airline](https://github.com/vim-airline/vim-airline). To
+install it, follow its [installation
+instructions](https://github.com/vim-airline/vim-airline#installation).
 
 ## Support this project
 I love knowing when people find my work useful. Any kind of support is very much
